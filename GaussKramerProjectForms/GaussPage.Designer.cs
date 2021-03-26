@@ -312,7 +312,7 @@ namespace Gauss
             this.label5.TabIndex = 8;
             this.label5.Text = "U";
             // 
-            // MainForm
+            // GaussPage
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -321,9 +321,9 @@ namespace Gauss
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
-            this.Name = "MainForm";
+            this.Name = "GaussPage";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Решение СЛАУ методом Гаусса";
+            this.Text = "Решение СЛУ методом Гаусса";
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

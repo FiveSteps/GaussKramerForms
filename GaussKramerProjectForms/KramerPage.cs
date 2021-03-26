@@ -49,11 +49,6 @@ namespace GaussKramerProjectForms
                 indeterminates = new char[] { 'x', 'y', 'z' };
             }
 
-            private void CalculateMatrxDeterminant(int dimension)
-            {
-                // To implement thae function you can use Chio's method (more info: [url]https://www.youtube.com/watch?v=_JetUVpvFAU[/url])
-            }
-
             /// <summary>
             /// Temporary function replacing the generic one above
             /// </summary>
@@ -74,24 +69,6 @@ namespace GaussKramerProjectForms
                 float third = matrix[3] * matrix[7] - matrix[4] * matrix[6];
 
                 return matrix[0] * first - matrix[1] * second + matrix[2] * third;
-            }
-
-            public static string[] GetReadMeContent()
-            {
-                return new string[]
-                {
-                "Greetings, friend!",
-                "I am a little program calculating the very simple system of equations (3 only yet).",
-                "You will be prompted to enter the equations by the following scheme: ax+by+cz=d",
-                "'x', 'y', 'z' characters represent indeterminates and all should be contained within the equation.",
-                "Indeterminates should be contained within the equation only once and only on the left side of the equal sign",
-                "Equal sign must be followed by the number only",
-                "'a', 'b', 'c' and 'd' characters must be replaced with integer numbers with '+' or '-' sign in front of it only",
-                "For example: 2x-5y+0.3z=25",
-                "'a', 'b', 'c' or 'd' cannot be zeros, since they collapse the variable.",
-                "Numbers with fraction or functions are not allowed either.",
-                "You can use spaces within the equation."
-                };
             }
 
             public Tuple<string, bool> TryAddEquation(string equation)
