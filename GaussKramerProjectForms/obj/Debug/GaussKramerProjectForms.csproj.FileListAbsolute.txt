@@ -1,0 +1,12 @@
+C:\Users\JackYellow\Desktop\GaussKramerProjectForms\GaussKramerProjectForms\bin\Debug\GaussKramerProjectForms.exe.config
+C:\Users\JackYellow\Desktop\GaussKramerProjectForms\GaussKramerProjectForms\bin\Debug\GaussKramerProjectForms.exe
+C:\Users\JackYellow\Desktop\GaussKramerProjectForms\GaussKramerProjectForms\bin\Debug\GaussKramerProjectForms.pdb
+C:\Users\JackYellow\Desktop\GaussKramerProjectForms\GaussKramerProjectForms\obj\Debug\GaussKramerProjectForms.csprojAssemblyReference.cache
+C:\Users\JackYellow\Desktop\GaussKramerProjectForms\GaussKramerProjectForms\obj\Debug\GaussKramerProjectForms.Form1.resources
+C:\Users\JackYellow\Desktop\GaussKramerProjectForms\GaussKramerProjectForms\obj\Debug\GaussKramerProjectForms.Properties.Resources.resources
+C:\Users\JackYellow\Desktop\GaussKramerProjectForms\GaussKramerProjectForms\obj\Debug\GaussKramerProjectForms.csproj.GenerateResource.cache
+C:\Users\JackYellow\Desktop\GaussKramerProjectForms\GaussKramerProjectForms\obj\Debug\GaussKramerProjectForms.csproj.CoreCompileInputs.cache
+C:\Users\JackYellow\Desktop\GaussKramerProjectForms\GaussKramerProjectForms\obj\Debug\GaussKramerProjectForms.exe
+C:\Users\JackYellow\Desktop\GaussKramerProjectForms\GaussKramerProjectForms\obj\Debug\GaussKramerProjectForms.pdb
+C:\Users\JackYellow\Desktop\GaussKramerProjectForms\GaussKramerProjectForms\obj\Debug\Gauss.GaussPage.resources
+C:\Users\JackYellow\Desktop\GaussKramerProjectForms\GaussKramerProjectForms\obj\Debug\GaussKramerProjectForms.KramerPage.resources
